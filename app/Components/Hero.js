@@ -1,5 +1,5 @@
 'use client';
-
+//
 export default function Hero() {
   return (
     <section className="min-h-screen bg-gray-100 flex flex-col items-center justify-center text-center px-4">
